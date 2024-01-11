@@ -4,7 +4,7 @@
 
 A simple Node.js package that checks, if a given string is null or empty.
 
-## Usage
+## Usage Ins
 
 First, install the package using npm:
 
